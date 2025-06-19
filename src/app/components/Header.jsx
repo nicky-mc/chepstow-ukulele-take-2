@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header className="bg-yellow-100 p-4 shadow-md">
       <nav className="flex justify-between items-center max-w-5xl mx-auto">
-        <h1 className="text-xl font-bold">Ukulele with Naomi</h1>
+        <h1 className="text-xl font-bold">Ukulele Club Chepstow</h1>
         <div className="space-x-4">
           <Link href="/">Home</Link>
           <Link href="/lessons">Lessons</Link>
